@@ -1,4 +1,6 @@
 # .File
-fla
-png
-haxe
+.fla
+
+.png
+
+.haxe
