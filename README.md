@@ -1,1 +1,4 @@
-# .Fla
+# .File
+fla
+png
+haxe
